@@ -1,7 +1,7 @@
 ## py-linux-ports
 Check Linux System Port's Status
 
-[![GitHub license](https://img.shields.io/github/license/sujitmandal/py-linux-ports)] [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-linux-ports)] [![PyPI - Wheel](https://img.shields.io/pypi/wheel/py-linux-ports)] [![PyPI](https://img.shields.io/pypi/v/py-linux-ports)]
+![GitHub license](https://img.shields.io/github/license/sujitmandal/py-linux-ports) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-linux-ports) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/py-linux-ports) ![PyPI](https://img.shields.io/pypi/v/py-linux-ports)
 
 
 ## Package Installation  : 
