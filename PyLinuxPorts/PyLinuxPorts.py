@@ -87,7 +87,7 @@ def portScan(ip, ports):
     return(port_info)
 
 if __name__ == '__main__':
-    IpAddress = "192.168.43.133"
+    IpAddress = ""
     #IpAddress = "192.168.122.195"
     PortNumber = 65000
 
