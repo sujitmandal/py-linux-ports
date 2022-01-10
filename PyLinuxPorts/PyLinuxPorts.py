@@ -79,10 +79,10 @@ def portScan(ip, ports):
     port_info.update(open_data)
 
 
-    # print('\n')
-    # print( 'Scanning Started in: ', start_time)
-    # print( 'Scanning Completed in: ', end_time)
-    # print('Total Time Take : ', total_time)
+    print('\n')
+    print( 'Scanning Started in: ', start_time)
+    print( 'Scanning Completed in: ', end_time)
+    print('Total Time Take : ', total_time)
 
     return(port_info)
 
