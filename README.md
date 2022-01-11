@@ -16,7 +16,7 @@ pip install py-linux-ports
 
 
 ## Py-Linux-Port's: 
-```
+```python
 import json
 from PyLinuxPorts.PyLinuxPorts import portScan 
 

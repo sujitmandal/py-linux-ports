@@ -1,1 +1,20 @@
-{"Port Open": {"22": "Open", "111": "Open", "139": "Open", "445": "Open", "2049": "Open", "7070": "Open", "34327": "Open", "42979": "Open", "43131": "Open", "47863": "Open"}, "Time Info": {"Date": "2022-01-10", "Start Time": "11:59:31", "End Time": "11:59:33", "Total Time": "0:00:01"}}
+{
+    "Port Open": {
+        "22": "Open",
+        "111": "Open",
+        "139": "Open",
+        "445": "Open",
+        "2049": "Open",
+        "7070": "Open",
+        "34327": "Open",
+        "42979": "Open",
+        "43131": "Open",
+        "47863": "Open"
+    },
+    "Time Info": {
+        "Date": "2022-01-10",
+        "Start Time": "11:59:31",
+        "End Time": "11:59:33",
+        "Total Time": "0:00:01"
+    }
+}

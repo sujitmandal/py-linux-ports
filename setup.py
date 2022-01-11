@@ -12,7 +12,7 @@ def readme():
 
 setup(
     name = 'py-linux-ports',
-    version = '0.0.1',
+    version = '0.0.2',
     description = "Check Linux System Port's Status.",
     long_description = readme(),
     long_description_content_type = 'text/markdown',
