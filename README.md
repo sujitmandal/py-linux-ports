@@ -14,6 +14,13 @@ pip install py-linux-ports
 ```
 [Package Link](https://pypi.org/project/py-linux-ports/)
 
+```
+conda install py-linux-ports
+```
+[Conda Package Link](https://anaconda.org/conda-forge/py-linux-ports)
+
+
+[py-linux-ports-feedstoc](https://github.com/conda-forge/py-linux-ports-feedstock)
 
 ## Py-Linux-Port's: 
 ```python
