@@ -7,7 +7,6 @@ Check Linux System Port's Status
 [![Downloads](https://pepy.tech/badge/py-linux-ports)](https://pepy.tech/project/py-linux-ports)
 
 
-
 ## Package Installation  : 
 ```
 pip install py-linux-ports
